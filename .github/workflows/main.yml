@@ -21,6 +21,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Inject secret into config.json
+        run: |
+          jq '.clientID = "${{ secrets.CLIENT_ID }}"' config.json > tmp.json
+          mv tmp.json config.json
+
       - name: Run scraper
         run: node index.js
 
