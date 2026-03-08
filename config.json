@@ -1,6 +1,5 @@
 {
   "outdir": "./output",
-  "clientID": "",
   "mapping": {
     "us": "45.50.96.71",
     "uk": "51.89.255.67",
