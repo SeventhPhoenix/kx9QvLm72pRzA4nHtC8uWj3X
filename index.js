@@ -14,45 +14,19 @@ const check = (minver) => {
 check(16);
 
 (async function() {
-	const fs = require('fs');
-	const path = require('path');
-	const os = require('os');
-	const crypto = require('crypto');
+	const { randomUUID } = require('crypto');
 
 	const config = require('./lib/config');
 	const ptauto = require('./lib/ptauto');
 	const server = require('./lib/server');
 
-	const configPath = path.join(__dirname, 'config.json');
-
-	// Load existing config.json
-	const rawConfig = JSON.parse(fs.readFileSync(configPath, 'utf8'));
-
-	// Generate ultra-unique clientID (256-bit SHA hash)
-	function generateUltraUniqueID() {
-		const entropy = Buffer.concat([
-			crypto.randomBytes(64), // strong CSPRNG
-			Buffer.from(process.hrtime.bigint().toString()), // nanosecond timer
-			Buffer.from(Date.now().toString()), // timestamp
-			Buffer.from(os.hostname()), // machine fingerprint
-			Buffer.from(os.userInfo().username || '')
-		]);
-
-		return crypto
-			.createHash('sha256')
-			.update(entropy)
-			.digest('hex'); // 64-character hex string
-	}
-
-	rawConfig.clientID = generateUltraUniqueID();
-
-	// Save updated config.json
-	fs.writeFileSync(configPath, JSON.stringify(rawConfig, null, 2) + '\n', 'utf8');
-
-	console.log(`Generated ultra-unique clientID: ${rawConfig.clientID}`);
-
-	// Now load config after writing the new clientID
 	config.loadConfig();
+
+	const setRuntimeClientId = () => {
+		const runtimeClientId = randomUUID();
+		config.set('clientID', runtimeClientId);
+		console.log(`Generated runtime clientID: ${runtimeClientId}`);
+	};
 
 	const port = config.get('port');
 	const refresh = config.get('refresh');
@@ -63,11 +37,17 @@ check(16);
 	}
 
 	if (port && refresh) {
-		setInterval(() => ptauto.process(config), refresh * 1000);
+		setRuntimeClientId();
+		setInterval(() => {
+			setRuntimeClientId();
+			ptauto.process(config);
+		}, refresh * 1000);
 		server.serve(config);
 	} else if (port) {
+		setRuntimeClientId();
 		server.serve(config);
 	} else {
+		setRuntimeClientId();
 		await ptauto.process(config);
 	}
 })();
