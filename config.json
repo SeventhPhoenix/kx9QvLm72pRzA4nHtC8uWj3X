@@ -1,5 +1,6 @@
 {
   "outdir": "./output",
+  "clientID": "new-random-uuid-will-go-here",
   "mapping": {
     "us": "45.50.96.71",
     "uk": "51.89.255.67",
