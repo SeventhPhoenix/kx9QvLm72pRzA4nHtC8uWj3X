@@ -21,11 +21,6 @@ check(16);
 
 	config.loadConfig();
 
-	const clientID = process.env.CLIENT_ID;
-	if (!clientID) {
-	  throw new Error('CLIENT_ID is not set');
-	}
-
 	const port = config.get('port');
 	const refresh = config.get('refresh');
 	if (refresh && refresh < 3600) {
