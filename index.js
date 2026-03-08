@@ -16,7 +16,8 @@ check(16);
 (async function() {
 	const fs = require('fs');
 	const path = require('path');
-	const { randomUUID } = require('crypto');
+	const os = require('os');
+	const crypto = require('crypto');
 
 	const config = require('./lib/config');
 	const ptauto = require('./lib/ptauto');
@@ -27,13 +28,28 @@ check(16);
 	// Load existing config.json
 	const rawConfig = JSON.parse(fs.readFileSync(configPath, 'utf8'));
 
-	// Generate a new UUID v4 each run
-	rawConfig.clientID = randomUUID();
+	// Generate ultra-unique clientID (256-bit SHA hash)
+	function generateUltraUniqueID() {
+		const entropy = Buffer.concat([
+			crypto.randomBytes(64), // strong CSPRNG
+			Buffer.from(process.hrtime.bigint().toString()), // nanosecond timer
+			Buffer.from(Date.now().toString()), // timestamp
+			Buffer.from(os.hostname()), // machine fingerprint
+			Buffer.from(os.userInfo().username || '')
+		]);
+
+		return crypto
+			.createHash('sha256')
+			.update(entropy)
+			.digest('hex'); // 64-character hex string
+	}
+
+	rawConfig.clientID = generateUltraUniqueID();
 
 	// Save updated config.json
 	fs.writeFileSync(configPath, JSON.stringify(rawConfig, null, 2) + '\n', 'utf8');
 
-	console.log(`Generated clientID: ${rawConfig.clientID}`);
+	console.log(`Generated ultra-unique clientID: ${rawConfig.clientID}`);
 
 	// Now load config after writing the new clientID
 	config.loadConfig();
@@ -52,6 +68,6 @@ check(16);
 	} else if (port) {
 		server.serve(config);
 	} else {
-			await ptauto.process(config);
+		await ptauto.process(config);
 	}
 })();
