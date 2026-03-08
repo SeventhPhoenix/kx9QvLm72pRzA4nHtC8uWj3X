@@ -20,8 +20,8 @@
   "refresh": 0,
   "xTvgUrl": false,
   "ondemand": false,
-  "ondemandTopPicksOnly": true,
-  "ondemandTopItems": false,
+  "ondemandTopPicksOnly": false,
+  "ondemandTopItems": true,
   "vlcopts": false,
   "pipeopts": false
 }
