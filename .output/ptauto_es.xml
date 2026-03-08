@@ -1522,6 +1522,11 @@ Estrella Invitada: Nicholas Hoult.</desc>
         <desc>Samantha Mackenzie quiere lo que todas las jóvenes de su edad, experiencias lejos de casa y padres. Pero no le va a resultar fácil ya que su casa es la Casa Blanca y su padre es el presidente de los Estados Unidos.</desc>
         <icon src="https://images.pluto.tv/series/6076b670235736001ac44430/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f1ac1f1b66c76000790ef27" start="20260308133559 +0000" stop="20260308153459 +0000">
+        <title>La huella del silencio</title>
+        <desc>Una niña de once años de una familia disfuncional demuestra un talento único, casi místico para deletrear. Cuando gana el concurso distrital y se califica al nacional, se vuelve el centro de la atención y gana la aprobación de su intelectual padre.</desc>
+        <icon src="https://images.pluto.tv/series/6076b65c235736001ac44233/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f1ac2591dd8880007bb7d6d" start="20260308091228 +0000" stop="20260308111328 +0000">
         <title>Alpha</title>
         <desc>Tres amigos se ven obligados a separarse tras un atraco frustrado. Ocho años más tarde, el destino los vuelve a unir a pesar de haber tomado caminos muy distintos.</desc>
@@ -5922,10 +5927,10 @@ Estrella Invitada: Nicholas Hoult.</desc>
         <desc>Hércules Poirot apuesta con el inspector jefe Japp que puede resolver la misteriosa desaparición de un banquero sin salir de su apartamento.</desc>
         <icon src="https://images.pluto.tv/series/648192f0662d03001b575fa0/tile_1769129281957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63d3da01c111bc0008ce65d0" start="20260308133000 +0000" stop="20260308140246 +0000">
-        <title>Pluto TV Mujeres Protagonistas</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/63d3da01c111bc0008ce65d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="63d3da01c111bc0008ce65d0" start="20260308120826 +0000" stop="20260308140246 +0000">
+        <title>La buena mentira</title>
+        <desc>Historia real sobre un joven refugiado de la guerra civil sudanesa que gana la lotería para ser reubicado en Estados Unidos con otros tres niños perdidos.</desc>
+        <icon src="https://images.pluto.tv/series/672dcedd8d00c6001480354f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63d3da01c111bc0008ce65d0" start="20260308140246 +0000" stop="20260308155846 +0000">
         <title>Abajo el amor</title>
@@ -5936,11 +5941,6 @@ Estrella Invitada: Nicholas Hoult.</desc>
         <title>Historia de una pasión</title>
         <desc>¿Quién fue Emily Dickinson? ¿Quién se escondía detrás de la poetisa que paso la mayor parte de su vida en casa de sus padres? La mansión en la que vivió sirve de telón de fondo al retrato de una mujer nada convencional de la que se sabe muy poco.</desc>
         <icon src="https://images.pluto.tv/series/60d0435028f1d30013ed3400/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63d3da01c111bc0008ce65d0" start="20260308182246 +0000" stop="20260308201003 +0000">
-        <title>Juana de Arco</title>
-        <desc>Guiada por visiones divinas, Juana de Arco, adolescente del siglo XV, lidera a Francia en guerra. Parte 1.</desc>
-        <icon src="https://images.pluto.tv/series/68ef5b8833c9798391286c00/tile_1760517003718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64ddcbb14c5ed80008fad416" start="20260308124000 +0000" stop="20260308133500 +0000">
         <title>Crimen en cámara</title>
@@ -6441,6 +6441,11 @@ Estrellas Invitadas: Brian Cox, Bear Grylls.</desc>
         <title>Brazil</title>
         <desc>En un mundo futurista, un burócrata intenta corregir un error administrativo y rápidamente se convierte en un enemigo público.</desc>
         <icon src="https://images.pluto.tv/series/6076b661235736001ac442bb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac1f1b66c76000790ef27" start="20260308181159 +0000" stop="20260308195959 +0000">
+        <title>Leyenda</title>
+        <desc>En una tierra donde la belleza se preserva con la inocencia de sus habitantes, dos jóvenes se encuentran en una encrucijada entre el bien y el mal.</desc>
+        <icon src="https://images.pluto.tv/series/6076b67b235736001ac44537/tile_1769575321180.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac2591dd8880007bb7d6d" start="20260308124816 +0000" stop="20260308142956 +0000">
         <title>Hiena salvaje</title>
@@ -10327,6 +10332,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Darts</title>
         <desc>International Pairs Week II: Finals Night.</desc>
         <icon src="https://images.pluto.tv/series/67e2e1e2e8cf626542920000/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67164414e40c4a00087f450d" start="20260308182200 +0000" stop="20260308184200 +0000">
+        <title>The Weakest Binks</title>
+        <desc>Darts gets ruthless as face-to-face eliminations hit the oche, feat. George Killington, Henry Coates and more!</desc>
+        <icon src="https://images.pluto.tv/series/699c993477bd3640de3838d3/tile_1771870516966.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67517fae5534bb0008187997" start="20260308133000 +0000" stop="20260308140000 +0000">
         <title>Actualidad 360</title>
@@ -17392,6 +17402,11 @@ A finales de septiembre de 1980 Mark Chapman, cuyos transtornos mentales le conv
         <desc>Un muchacho de una granja al oeste de Texas va a la gran ciudad, donde monta un toro mecánico, conoce a su futura esposa y se topa con la rivalidad de un ex presidiario.</desc>
         <icon src="https://images.pluto.tv/series/6672a3b01c028200137c3d37/tile_1768602961884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6385e82900ab2e000768a058" start="20260309013733 +0000" stop="20260309031209 +0000">
+        <title>Esos locos cuatreros</title>
+        <desc>The Wild West goes wacko when the Greatest Fast-Drawin',Silver-Spurred, Geetar Playin', Singing Cowboy movie matinee idol Rex O'Herlihan hits the saddle in Rustlers' Rhapsody, a cockeyed, affectionate send-up of the '40s B-movie Western.</desc>
+        <icon src="https://images.pluto.tv/series/6672a0e092217f0013fd3995/tile_1768603321840.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="63d7a8e5a9957100086bfc23" start="20260308211544 +0000" stop="20260308213944 +0000">
         <title>South Park VOSE: Canadá en huelga</title>
         <desc>Canadá está al borde del colapso después de una huelga que buscaba 'parte de ese dinero de Internet'.</desc>
@@ -21616,6 +21631,11 @@ Estrella Invitada: Eric Bana.</desc>
         <title>Reflejos</title>
         <desc>Del director de "Las colinas tienen ojos" llega esta historia aterradora de un expolicía que tiene que salvar a su familia de un mal desconocido que llega a su hogar a través de los reflejos.</desc>
         <icon src="https://images.pluto.tv/series/6076b68b235736001ac446c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ce480a78df2200131c597b" start="20260309053528 +0000" stop="20260309072128 +0000">
+        <title>Dictado</title>
+        <desc>Tras quedarse huérfana, Julia es acogida por Daniel y Laura. Daniel percibe en la conducta de la niña un carácter amenazador que le trae a la memoria un pasado terrorífico que había decidido enterrar para siempre.</desc>
+        <icon src="https://images.pluto.tv/series/5f4e1838fa72a5001a5fa69b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66448a5a8ce31100086ae45e" start="20260309013000 +0000" stop="20260309020000 +0000">
         <title>Ubeat Lite</title>
