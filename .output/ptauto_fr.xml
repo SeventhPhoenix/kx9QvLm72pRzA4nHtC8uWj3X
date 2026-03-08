@@ -2361,6 +2361,11 @@
         <desc>Les héros anonymes de la catastrophe nucléaire de Fukushima risquent leur vie pour empêcher une explosion encore plus dévastatrice.</desc>
         <icon src="https://images.pluto.tv/series/67a34bbe8d09180014143153/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="65a69ef53af63d000825e0ee" start="20260308101209 +0000" stop="20260308114227 +0000">
+        <title>Megaquake</title>
+        <desc>Un séisme d’une ampleur inédite menace de détruire toute la côte ouest des États-Unis.</desc>
+        <icon src="https://images.pluto.tv/series/67a346339a098f00146e8112/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="65cca3e2ec452d0008af3a65" start="20260308053817 +0000" stop="20260308075121 +0000">
         <title>L'homme tranquille</title>
         <desc>Après avoir tué son adversaire au cours d'un combat, un boxeur décide de rentrer dans son pays natal, l'Irlande. Il épouse Mary-Kate Danaher malgré le frère de sa belle, opposé à ce mariage.</desc>
@@ -5238,6 +5243,11 @@ Suneo joue un tour au passionné d’OVNIs du coin, Doraemon décide alors d’o
     <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260308085000 +0000" stop="20260308113000 +0000">
         <title>World Poker Tour: Bellagio 5 Diamond World Poker Classic</title>
         <desc>Six players compete in the prestigious WPT Five Diamond World Poker Classic at Bellagio for the more than $800,000 first-place prize.</desc>
+        <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260308113000 +0000" stop="20260308141000 +0000">
+        <title>World Poker Tour: WPT Venice Grand Prix</title>
+        <desc>Six players compete in the storied city of Venice, Italy for more than $300,000 in the WPT Venice Grand Prix.</desc>
         <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="60d35bcaf1ff4a00078af0a6" start="20260308060000 +0000" stop="20260308063000 +0000">
@@ -10299,6 +10309,11 @@ Suneo joue un tour au passionné d’OVNIs du coin, Doraemon décide alors d’o
         <desc>Live coverage from a top-level snooker event on the International circuit.</desc>
         <icon src="https://images.pluto.tv/series/69344602a458a400fb13fda4/tile_1765033510132.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="66fd35e44ca31f0008060b77" start="20260308154500 +0000" stop="20260308191500 +0000">
+        <title>Snooker</title>
+        <desc>Live coverage from a top-level snooker event on the International circuit.</desc>
+        <icon src="https://images.pluto.tv/series/69344602a458a400fb13fda4/tile_1765033510132.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="671643fc5534bb00089187ad" start="20260308095500 +0000" stop="20260308101900 +0000">
         <title>Break of Throw: 9 Dart Heroes</title>
         <desc>Paul Nicholson and Matthew Edgar analyse MODUS Super Series 9-darters by Conor Heneghan and Jarred Cole.</desc>
@@ -14315,6 +14330,11 @@ Suneo joue un tour au passionné d’OVNIs du coin, Doraemon décide alors d’o
         <desc>Chez les Mirmon, famille bourgeoise, comporte deux frères : Paul, publicitaire sérieux, et Jacques, journaliste bohème et fantasque. Paul présente à sa famille sa nouvelle fiancée, Lucie. Elle devra s'y résoudre ou choisir la liberté.</desc>
         <icon src="https://images.pluto.tv/series/65c122d9a40ff70013da357e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="639b54404cfdf7000729b3c1" start="20260308180600 +0000" stop="20260308185600 +0000">
+        <title>Réponse à tout</title>
+        <desc>Jeu télévisé animé par Pierre Guillermo et Danièle Vlaminck. Deux candidats s'affrontent sur des questions de culture générale, conçues et posées par des téléspectateurs. Lequel des joueurs sortira vainqueur de ce match amical ?</desc>
+        <icon src="https://images.pluto.tv/series/65e84d1303625d001315cdbf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="63b578b524f0cf00072f2a52" start="20260308140000 +0000" stop="20260308143000 +0000">
         <title>Échappées Belles</title>
         <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
@@ -14903,6 +14923,11 @@ Suneo joue un tour au passionné d’OVNIs du coin, Doraemon décide alors d’o
     <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260308164200 +0000" stop="20260308191400 +0000">
         <title>World Poker Tour: WPT Bay 101 Shooting Star</title>
         <desc>Six players compete in San Jose for the more the $960,000 top prize in the WPT Bay 101 Shooting Star.</desc>
+        <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260308191400 +0000" stop="20260308200500 +0000">
+        <title>World Poker Tour: Seminole Hard Rock Poker Showdown - Part 1</title>
+        <desc>Six players compete in Hollywood, FL for the $780,000 first-place prize in the WPT Seminole Hard Rock Poker Showdown.</desc>
         <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="60d35bcaf1ff4a00078af0a6" start="20260308140000 +0000" stop="20260308143000 +0000">
@@ -19849,11 +19874,6 @@ Louis nous guide pour une randonnée écologique et historique vers la source de
         <desc>All the boxing action.</desc>
         <icon src="https://images.pluto.tv/series/6548c0673e6938001ad79e12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260308215200 +0000" stop="20260308224500 +0000">
-        <title>Boxing</title>
-        <desc>All the boxing action.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0673e6938001ad79e12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
     <programme channel="650aff3398020f00086380cd" start="20260308180000 +0000" stop="20260308183000 +0000">
         <title>Le Figaro TV</title>
         <desc>Le Figaro Live : l'information en direct et en continu</desc>
@@ -21173,6 +21193,11 @@ Louis nous guide pour une randonnée écologique et historique vers la source de
         <title>In Harm's Way</title>
         <desc>Le 7 décembre 1941, les avions japonais attaquent Pearl Harbor et surprennent la flotte américaine. Torrey, un capitaine de vaisseau avide de vengeance, se lance en pleine bataille à la poursuite de l'armada nippone, enfin localisée.</desc>
         <icon src="https://images.pluto.tv/series/66332d48c306f10014749eae/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260309032603 +0000" stop="20260309051703 +0000">
+        <title>Bons, brutes... mais pas méchants</title>
+        <desc>Simone et Matteo sont deux voleurs de petite envergure qui sont engagés par une organisation clandestine pour transporter un chargement à Marseille. Ils ignorent totalement qu'ils transportent des armes...</desc>
+        <icon src="https://images.pluto.tv/series/612dd42dc809bb001364c23e/tile_1768441790099.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed1ff5c39700007e2204a" start="20260308205108 +0000" stop="20260308225350 +0000">
         <title>Waiting For The Barbarians</title>
@@ -24742,6 +24767,11 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Considered the greatest player in the history of snooker, Ronnie O'Sullivan pulls back the curtain on his secrets to success.</desc>
         <icon src="https://images.pluto.tv/series/69172311f17cb9c145a8113d/tile_1763139783152.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="66fd35e44ca31f0008060b77" start="20260309021500 +0000" stop="20260309043000 +0000">
+        <title>Snooker 900</title>
+        <desc>Live Snooker 900, une version innovante, rapide et palpitante du billard ! Chaque semaine, des joueurs légendaires s'affrontent dans des tournois captivants.</desc>
+        <icon src="https://images.pluto.tv/series/69172310f17cb9c145a81039/tile_1763131342552.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="671643fc5534bb00089187ad" start="20260308220000 +0000" stop="20260308222500 +0000">
         <title>The Best of Leonard Gates: Top Moments &amp; Highlights</title>
         <desc>Fléchettes 24 heures sur 24, 7 jours sur 7 ! Y compris la couverture en direct du tournoi Pluto TV MODUS Super Series, six jours par semaine, 50 semaines par an.</desc>
@@ -25218,9 +25248,9 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1769034244921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f3ece7b09fd6000783bfb9" start="20260309020152 +0000" stop="20260309022152 +0000">
-        <title>Un gars, une fille</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>Un Gars Une Fille: Dans un taxi /  A cheval /  Au téléphone (4)</title>
+        <desc>Dans un taxi /  A cheval /  Au téléphone (4)</desc>
+        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1769034244921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f3ece7b09fd6000783bfb9" start="20260309022152 +0000" stop="20260309024352 +0000">
         <title>Un Gars Une Fille: Au judo /  En boîte (2) /  Au lit (6)</title>
@@ -29560,6 +29590,11 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <title>World Seniors Snooker 900</title>
         <desc>Featuring coverage of the World Seniors Snooker 900 tournament.</desc>
         <icon src="https://images.pluto.tv/series/692989cc63142c96a911722a/tile_1764329933425.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66fd35e44ca31f0008060b77" start="20260309070000 +0000" stop="20260309130000 +0000">
+        <title>Snooker 900</title>
+        <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
+        <icon src="https://images.pluto.tv/series/69172310f17cb9c145a81039/tile_1763131342552.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="671643fc5534bb00089187ad" start="20260309011300 +0000" stop="20260309020600 +0000">
         <title>Best of the MODUS Super Series</title>
