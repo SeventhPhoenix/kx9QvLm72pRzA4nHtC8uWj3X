@@ -19896,6 +19896,11 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>International Pairs Week II: Finals Night.</desc>
         <icon src="https://images.pluto.tv/series/67e2e1dee8cf62654291facf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="671643fc5534bb00089187ad-fr" start="20260308182200 +0000" stop="20260308184200 +0000">
+        <title>The Weakest Binks</title>
+        <desc>Darts gets ruthless as face-to-face eliminations hit the oche, feat. George Killington, Henry Coates and more!</desc>
+        <icon src="https://images.pluto.tv/series/699c993377bd3640de3836e8/tile_1771870516051.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="67921b78b83355184c667770-fr" start="20260308133000 +0000" stop="20260308140000 +0000">
         <title>UFC</title>
         <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
@@ -24616,11 +24621,6 @@ Louis nous guide pour une randonnée écologique et historique vers la source de
         <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc-fr" start="20260308213000 +0000" stop="20260308215200 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
     <programme channel="650aff3398020f00086380cd-fr" start="20260308173000 +0000" stop="20260308180000 +0000">
         <title>Le Figaro TV</title>
         <desc>Le Figaro Live : l'information en direct et en continu</desc>
@@ -29286,9 +29286,9 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <icon src="https://images.pluto.tv/series/69ab01266d7de5ca36321218/tile_1772816656362.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc-fr" start="20260308213000 +0000" stop="20260308215200 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>DAZN Ringside</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc-fr" start="20260308215200 +0000" stop="20260308224500 +0000">
         <title>Boxing</title>
