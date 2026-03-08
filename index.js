@@ -19,7 +19,7 @@ check(16);
 	const { randomUUID } = require('crypto');
 
 	const config = require('./lib/config');
-	const plutotv = require('./lib/plutotv');
+	const plutotv = require('./lib/ptauto');
 	const server = require('./lib/server');
 
 	const configPath = path.join(__dirname, 'config.json');
