@@ -19,7 +19,7 @@ check(16);
 	const { randomUUID } = require('crypto');
 
 	const config = require('./lib/config');
-	const plutotv = require('./lib/ptauto');
+	const ptauto = require('./lib/ptauto');
 	const server = require('./lib/server');
 
 	const configPath = path.join(__dirname, 'config.json');
@@ -47,11 +47,11 @@ check(16);
 	}
 
 	if (port && refresh) {
-		setInterval(() => plutotv.process(config), refresh * 1000);
+		setInterval(() => ptauto.process(config), refresh * 1000);
 		server.serve(config);
 	} else if (port) {
 		server.serve(config);
 	} else {
-		await plutotv.process(config);
+		await ptauto.process(config);
 	}
 })();
