@@ -2860,6 +2860,11 @@ Estrella invitada: Martin Kemp.</desc>
         <desc>The Wild West goes wacko when the Greatest Fast-Drawin',Silver-Spurred, Geetar Playin', Singing Cowboy movie matinee idol Rex O'Herlihan hits the saddle in Rustlers' Rhapsody, a cockeyed, affectionate send-up of the '40s B-movie Western.</desc>
         <icon src="https://images.pluto.tv/series/6672a0e092217f0013fd3995/tile_1768603321840.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6385e82900ab2e000768a058" start="20260309031209 +0000" stop="20260309052032 +0000">
+        <title>Misión de audaces</title>
+        <desc>Un severo coronel de La Unión (Wayne) está al frente de un regimiento que debe infiltrarse en pleno territorio confederado para cumplir una difícil misión.</desc>
+        <icon src="https://images.pluto.tv/series/673f27cbb7ea5e00132dfc54/tile_1769192281907.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="63d7a8e5a9957100086bfc23" start="20260308225144 +0000" stop="20260308231544 +0000">
         <title>South Park VOSE: El problema de China</title>
         <desc>Alarmado por la grandeza de las ceremonias olímpicas, Cartman consigue que Butters le ayude a enfrentarse a los chinos. Mientras, Stan y Kyle son testigos de la 'violación' de Indiana Jones.</desc>
@@ -7704,6 +7709,11 @@ Estrellas Invitadas: Jesse Eisenberg, Gordon Ramsay.</desc>
         <title>¡Agáchate, maldito!</title>
         <desc>Un bandido de mala muerte y un experto en explosivos del IRA se rebelan contra el gobierno existente y se convierten en héroes de la Revolución Mexicana.</desc>
         <icon src="https://images.pluto.tv/series/636e449836d64a00145940e2/tile_1769194448566.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6385e82900ab2e000768a058" start="20260309081132 +0000" stop="20260309094051 +0000">
+        <title>El discípulo del diablo</title>
+        <desc>Adaptación de una obra de Bernard Shaw basada en hechos ocurridos en 1777. Durante la Guerra de Independencia de los EEUU surgió una estrecha amistad entre un colono americano y un pastor protestante inglés.</desc>
+        <icon src="https://images.pluto.tv/series/64fee968020c540013075209/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63d7a8e5a9957100086bfc23" start="20260309025144 +0000" stop="20260309031544 +0000">
         <title>South Park VOSE: Come, reza y tírate chichipedos</title>
