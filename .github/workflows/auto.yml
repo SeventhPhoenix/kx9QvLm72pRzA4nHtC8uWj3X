@@ -15,7 +15,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
 
     steps:
       - name: Checkout repo
@@ -32,6 +32,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Ensure output directory exists
+        run: mkdir -p .output
+
       - name: Run scraper
         run: node index.js
 
@@ -40,11 +43,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if [ -n "$(git status --porcelain)" ]; then
+          if [ -n "$(git status --porcelain .output)" ]; then
             TIMESTAMP="$(TZ='Australia/Sydney' date '+%Y-%m-%d %H:%M:%S %Z')"
-            git add .
+            git add -A .output
             git commit -m "Automatic update - ${TIMESTAMP}"
             git push
           else
-            echo "No changes to commit"
+            echo "No output changes to commit"
           fi
