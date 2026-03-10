@@ -121,13 +121,13 @@
         <display-name>Dead Man Down</display-name>
         <icon src="https://images.pluto.tv/episodes/693841e2232b4e31aa25efd4/screenshot16_9_1765294564081.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </channel>
-    <channel id="69299eb08e21e6575ab717ed-uk">
-        <display-name>The Breed</display-name>
-        <icon src="https://images.pluto.tv/episodes/69299eb08e21e6575ab717ed/screenshot16_9_1764341656975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </channel>
     <channel id="69299cd2a458a400fbe0090b-uk">
         <display-name>Taking Sides</display-name>
         <icon src="https://images.pluto.tv/episodes/69299cd2a458a400fbe0090b/screenshot16_9_1764334809396.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </channel>
+    <channel id="69299eb08e21e6575ab717ed-uk">
+        <display-name>The Breed</display-name>
+        <icon src="https://images.pluto.tv/episodes/69299eb08e21e6575ab717ed/screenshot16_9_1764341656975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </channel>
     <channel id="6929946482c5f9296d6b50f1-uk">
         <display-name>The Last Full Measure</display-name>
@@ -401,502 +401,502 @@
         <display-name>Buena Vista Social Club</display-name>
         <icon src="https://images.pluto.tv/episodes/698ddfb404efdcbbe4fcd1be/screenshot16_9_1770905525207.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </channel>
-    <programme channel="69087b4bc59f905cb03d50b4-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69087b4bc59f905cb03d50b4-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>In The Line of Duty</title>
         <desc>Disgraced cop Frank is on a mission to find the Chief of Police’s abducted daughter. After killing the abductor, all hell breaks loose when the abductor’s brother arrives thirsty for revenge.</desc>
         <icon src="https://images.pluto.tv/episodes/69087b4bc59f905cb03d50b4/screenshot16_9_1762167564733.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="690b245dd2a007faba0a86fe-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="690b245dd2a007faba0a86fe-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Aliens and the New World Order: The Cosmic Conspiracy</title>
         <desc>Did Ancient Aliens come to earth, create humans and control us throughout history? Jim Marrs explores our occulted history discovering how Ancient Aliens may still be in control today.</desc>
         <icon src="https://images.pluto.tv/episodes/690b245dd2a007faba0a86fe/screenshot16_9_1762356351421.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="690b22f871d0752d87ab2de2-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="690b22f871d0752d87ab2de2-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Alien Agenda: Into The Future</title>
         <desc>The abundant evidence suggests UFOs exist and have been encountered for decades and that the earth is being visited by extraterrestrial entities. What do they want? Do they have an agenda? The answers</desc>
         <icon src="https://images.pluto.tv/episodes/690b22f871d0752d87ab2de2/screenshot16_9_1762351256507.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="690b2463d2a007faba0b6be4-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="690b2463d2a007faba0b6be4-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Alien Chronicles: Antarctic Worlds Below</title>
         <desc>1944‚Äôs Operation HighJump uncovered mind-blowing secrets of the mysterious continent of Antarctica including an underground kingdom inhabited by aliens.</desc>
         <icon src="https://images.pluto.tv/episodes/690b2463d2a007faba0b6be4/screenshot16_9_1762351264750.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="690b22f571d0752d87aabc13-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="690b22f571d0752d87aabc13-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Alien Paranormal: Dark Intruders And Et Enigmas</title>
         <desc>Ancient Astronauts and Alien entities traveling through inter dimensional gateways unleashing invisible predators and cryptic legends.</desc>
         <icon src="https://images.pluto.tv/episodes/690b22f571d0752d87aabc13/screenshot16_9_1762351255697.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="690b25c5c59f905cb0312af0-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="690b25c5c59f905cb0312af0-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Alien Paranormal: Ufos and Bizarre Encounters</title>
         <desc>Learn new information from Alien Occultists to shocking Alien encounters, from reverse engineering to military deals with Grey Aliens and Project Sigma.</desc>
         <icon src="https://images.pluto.tv/episodes/690b25c5c59f905cb0312af0/screenshot16_9_1762352459726.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="690b25c8c59f905cb0319cfa-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="690b25c8c59f905cb0319cfa-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Alien Portals: Time Travel, Prophecy And Missing People</title>
         <desc>Explore other dimensions and the methods that Ancient Man used them, including real ancient time machines that were constructed based on Egyptian secret knowledge.</desc>
         <icon src="https://images.pluto.tv/episodes/690b25c8c59f905cb0319cfa/screenshot16_9_1762359991648.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="690b22f171d0752d87aa48a7-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="690b22f171d0752d87aa48a7-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>UAP: Death of the UFO</title>
         <desc>When Project Blue Book was terminated, the military vowed that they were no longer investigating the phenomena. However it was revealed that the Pentagon was conducting a program on UFOs and UAPs.</desc>
         <icon src="https://images.pluto.tv/episodes/690b22f171d0752d87aa48a7/screenshot16_9_1762352415872.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="690b2459d2a007faba0a1533-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="690b2459d2a007faba0a1533-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>UFO Whistleblowers: Aliens and the UAP Enigma Exposed</title>
         <desc>UFO revelations abound as whistleblowers come forward with startling information about UFO crash retrieval teams, recovered non-human biological creatures, and more.</desc>
         <icon src="https://images.pluto.tv/episodes/690b2459d2a007faba0a1533/screenshot16_9_1762337886271.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="690b2460d2a007faba0af874-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="690b2460d2a007faba0af874-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>UFOs Over Phoenix: Confessions of a 911 Operator</title>
         <desc>An infamous mass sighting of a colossal UFO has taken an interesting turn as two new witnesses have come forward with new revelations about the V-shaped objects flying over the Arizona sky.</desc>
         <icon src="https://images.pluto.tv/episodes/690b2460d2a007faba0af874/screenshot16_9_1762352598252.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="690b25c1c59f905cb030b780-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="690b25c1c59f905cb030b780-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Alien Top 20: Mind Bending UFO Encounters</title>
         <desc>Prepare for a series of stunning accounts of UFO and Alien encounters across vast regions, times and cultures that present an astonishing truth.</desc>
         <icon src="https://images.pluto.tv/episodes/690b25c1c59f905cb030b780/screenshot16_9_1762338245879.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5e0db07047885fb745bbd824-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5e0db07047885fb745bbd824-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Son of No One</title>
         <desc>A rookie cop is assigned to the 118 Precinct in the same district where he grew up. The Precinct Captain starts receiving letters about two unsolved murders that happened many years ago in the housing projects when the rookie cop was just a kid.</desc>
         <icon src="https://images.pluto.tv/episodes/5e0db07047885fb745bbd824/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5dfbef5ad59221a546f7c40d-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5dfbef5ad59221a546f7c40d-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Prince Valiant</title>
         <desc>In a time now lost in the mists of memory, the great King Arthur rules in the legendary citadel that is Camelot. Starring: Joanna Lumley, Stephen Moyer, Katherine Heigl, Thomas Kretschmann</desc>
         <icon src="https://images.pluto.tv/episodes/5dfbef5ad59221a546f7c40d/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69ae948935a5599412a1bf03-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69ae948935a5599412a1bf03-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Fact or Fiction: The Life &amp; Times of Ping Pong Hustler Marty Reisman</title>
         <desc>Former table tennis champion Marty Reisman (the real-life inspiration for "Marty Supreme") faces mortality while pursuing fame in his final years, as documented through observations, archives, and interviews, while dealing with his wife's health and his fading glory.</desc>
         <icon src="https://images.pluto.tv/episodes/69ae948935a5599412a1bf03/screenshot16_9_1773048970213.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6964bf21c1938362f3354a56-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6964bf21c1938362f3354a56-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Severance</title>
         <desc>Working nine to five is a real killer, but team-building holidays can be even worse. Seven colleagues find themselves faced with the chop when their corporate weekend in the wilds of Eastern Europe descends into a deadly nightmare. Pitched into a fight for survival against a forgotten army of bloodthirsty maniacs, can the Palisade Defence team survive the bear traps and treacherous pits long enough to show their guts instead of losing them?</desc>
         <icon src="https://images.pluto.tv/episodes/6964bf21c1938362f3354a56/screenshot16_9_1768210214598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6964bc4d4f5af45f9ea276af-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6964bc4d4f5af45f9ea276af-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Queen Of The Desert</title>
         <desc>A chronicle of Gertrude Bell's life, a traveler, writer, archaeologist, explorer, cartographer, and political attaché for the British Empire at the dawn of the twentieth century.</desc>
         <icon src="https://images.pluto.tv/episodes/6964bc4d4f5af45f9ea276af/screenshot16_9_1768209490084.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6964c081b259a78ff0df3eee-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6964c081b259a78ff0df3eee-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Pennywise: The Story Of IT</title>
         <desc>Exploring the 1990 mini-series, based on Stephen King's iconic novel IT, this documentary tells a story heard by few and showcases a wealth of behind-the-scenes footage and photos seen by even fewer. From investigating the cultural phenomenon of coulrophobia (the fear of clowns) to Tim Curry's magical portrayal of the notorious clown monster, this story promises to dig deeper into the Pennywise phenomenon than ever before! Featuring interviews with many of the cult classic's key players, including director Tommy Lee Wallace and cast members Tim Curry, Seth Green, and Richard Thomas.</desc>
         <icon src="https://images.pluto.tv/episodes/6964c081b259a78ff0df3eee/screenshot16_9_1768257336908.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6964bdb1ee4744ada536c3b3-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6964bdb1ee4744ada536c3b3-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Next Goal Wins</title>
         <desc>Mike Brett and Steve Jamison's documentary Next Goal Wins follows Thomas Rongen, a Dutch soccer coach who is hired to lead the national team for American Samoa, a famously pitiful outfit that spent nearly two decades at the bottom of FIFA's international rankings. He attempts to manage the team to its first victory ever, in international competition, during qualifying matches for the 2014 World Cup.</desc>
         <icon src="https://images.pluto.tv/episodes/6964bdb1ee4744ada536c3b3/screenshot16_9_1768209845917.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6964c1e9a7396485f837f15f-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6964c1e9a7396485f837f15f-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Nails</title>
         <desc>Recovering after a terrible accident, Dana is exposed to a dark and malevolent spirit who is intent on her destruction. After surviving a near-fatal accident, track coach and mother Dana awakens in hospital, paralysed and imprisoned in her own body. Whilst struggling to regain control of her life, Dana is confronted with a vindictive spirit; a terrifying presence called Nails, whom she is convinced exists inside her hospital room. Faced with skepticism from her husband, doctors and the staff, and believed to be suffering from a mental breakdown, Dana is left struggling to keep her grip on reality as the targeted attacks grow increasingly violent. To save her marriage and her life, Dana must find a way to convince her family that Nails is real before he succeeds in destroying her and everyone who stands in his way. From award winning film production company Fantastic Films (The Hallow and Let Us Prey) and the executive producer of Assault on Precinct 13.</desc>
         <icon src="https://images.pluto.tv/episodes/6964c1e9a7396485f837f15f/screenshot16_9_1768210925916.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6964b97db9f75c652ffac165-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6964b97db9f75c652ffac165-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Fast Food Nation</title>
         <desc>The hit mockumentary taking a deep dive into the health issues and social consequences of America's love affair with fast food. From Academy Award nominated director, Richard Linklater, this darkly comedic satire is packed with A-list cameos from the likes of Patricia Arquette, Ethan Hawke, Bobby Cannavale, Paul Dano, Bruce Willis, Kris Kristofferson and Avril Lavigne.</desc>
         <icon src="https://images.pluto.tv/episodes/6964b97db9f75c652ffac165/screenshot16_9_1768208768843.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6964bae1a7396485f83779b6-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6964bae1a7396485f83779b6-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Captain Kronos: Vampire Hunter</title>
         <desc>When several young girls are found dead, left hideously aged and void of blood, Dr Marcus suspects vampirism. He enlists the help of the Vampire Hunter. Mysterious and powerful, Kronos has dedicated his life to destroying the evil pestilence. Once a victim of its diabolical depravity he knows the vampire's strengths and weaknesses as well as the extreme dangers attached to confronting the potent forces of darkness.</desc>
         <icon src="https://images.pluto.tv/episodes/6964bae1a7396485f83779b6/screenshot16_9_1768209123218.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6964b3d9c1938362f30db0c5-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6964b3d9c1938362f30db0c5-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Party's Just Beginning</title>
         <desc>The Party's Just Beginning is a drama in which a young woman searches for meaning in her life through a series of meaningless relationships.</desc>
         <icon src="https://images.pluto.tv/episodes/6964b3d9c1938362f30db0c5/screenshot16_9_1768207322276.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6964b3dcc1938362f30e12bd-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6964b3dcc1938362f30e12bd-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Foul King</title>
         <desc>A timid bank clerk transforms into a wrestling villain in this comedy starring Song Kang-ho (Parasite, Broker).</desc>
         <icon src="https://images.pluto.tv/episodes/6964b3dcc1938362f30e12bd/screenshot16_9_1768214907913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6996dc56cb38872a7e11816b-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6996dc56cb38872a7e11816b-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Wuthering Heights (1970)</title>
         <desc>A passionate adaptation of Emily Brontë’s superbly strange and hauntingly enduring classic novel, starring Timothy Dalton and Anna Calder-Marshall as the doomed and deathless lovers, Heathcliff and Cathy. Directed by Robert Fuest.</desc>
         <icon src="https://images.pluto.tv/episodes/6996dc56cb38872a7e11816b/screenshot16_9_1771518895137.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b3b040d0ae07befc8177dc8-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b3b040d0ae07befc8177dc8-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Uptown Girls (2003)</title>
         <desc>Molly Gunn is the daughter of a late rock legend, and the toast of New York City. But when her inheritance is stolen, Molly is forced to do something she's never done before - get a job. Molly becomes a nanny to a girl, who is "eight going on forty."</desc>
         <icon src="https://images.pluto.tv/episodes/5b3b040d0ae07befc8177dc8/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b190e55b0875c36c90c5ebe-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b190e55b0875c36c90c5ebe-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Nicholas Nickleby (2002)</title>
         <desc>After Nicholas' father dies and leaves the family penniless, the Nickleby Family moves to London to stay with their Uncle Ralph. Ralph turns abusive and separates the family.</desc>
         <icon src="https://images.pluto.tv/episodes/5b190e55b0875c36c90c5ebe/screenshot16_9_1771412987009.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b190d85b0875c36c90c495b-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b190d85b0875c36c90c495b-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Navy Seals (1990)</title>
         <desc>When Middle-Eastern terrorists acquire some American stinger missiles, it's up to the U.S. Navy's elite commando unit, the Navy SEALS, to Ward off their challenge and blow them up.</desc>
         <icon src="https://images.pluto.tv/episodes/5984d0f6b437fb1d6f0f24ac/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="690b3f11c59f905cb0373876-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="690b3f11c59f905cb0373876-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Knowing</title>
         <desc>A professor (Nicolas Cage) deciphers a mysterious code foretelling future calamities. Can he somehow avert them?</desc>
         <icon src="https://images.pluto.tv/episodes/690b3f11c59f905cb0373876/screenshot16_9_1762344728091.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69398284a48fba0b7ed22f7e-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69398284a48fba0b7ed22f7e-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Mr. Magorium's Wonder Emporium</title>
         <desc>Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium, the strangest, most fantastic, most wonderful toy store in the world.</desc>
         <icon src="https://images.pluto.tv/episodes/69398284a48fba0b7ed22f7e/screenshot16_9_1765381656580.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="693841e2232b4e31aa25efd4-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="693841e2232b4e31aa25efd4-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Dead Man Down</title>
         <desc>A man left for dead goes after the Eastern European mob boss who killed his wife and daughter by infiltrating his gang and killing them off one by one, while sending clues to let him know he is coming.</desc>
         <icon src="https://images.pluto.tv/episodes/693841e2232b4e31aa25efd4/screenshot16_9_1765294564081.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69299eb08e21e6575ab717ed-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
-        <title>The Breed</title>
-        <desc>A group of five college kids are forced to match wits with unwelcoming residents when they fly to a "deserted" island for a party weekend.</desc>
-        <icon src="https://images.pluto.tv/episodes/69299eb08e21e6575ab717ed/screenshot16_9_1764341656975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="69299cd2a458a400fbe0090b-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69299cd2a458a400fbe0090b-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Taking Sides</title>
         <desc>After the end of World War II, a famous German conductor is accused of loyalty to the Nazi regime. He argues that art and politics are separate. An investigator thinks otherwise.</desc>
         <icon src="https://images.pluto.tv/episodes/69299cd2a458a400fbe0090b/screenshot16_9_1764334809396.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6929946482c5f9296d6b50f1-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69299eb08e21e6575ab717ed-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
+        <title>The Breed</title>
+        <desc>A group of five college kids are forced to match wits with unwelcoming residents when they fly to a "deserted" island for a party weekend.</desc>
+        <icon src="https://images.pluto.tv/episodes/69299eb08e21e6575ab717ed/screenshot16_9_1764341656975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6929946482c5f9296d6b50f1-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Last Full Measure</title>
         <desc>Thirty-four years after his death, Airman William H. "Pits" Pitsenbarger is awarded the nation's highest military honor for his actions on the battlefield.</desc>
         <icon src="https://images.pluto.tv/episodes/6929946482c5f9296d6b50f1/screenshot16_9_1764342967264.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6929947782c5f9296d6c2839-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6929947782c5f9296d6c2839-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Days of the Bagnold Summer</title>
         <desc>A teenager spends his summer listening to heavy metal music and trying to get along with his librarian mum.</desc>
         <icon src="https://images.pluto.tv/episodes/6929947782c5f9296d6c2839/screenshot16_9_1764342991844.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="692995c9779bf41d1d8398bc-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="692995c9779bf41d1d8398bc-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Last Manhunt</title>
         <desc>In 1909 Willie Boy and his love, Carlota, go on the run after he accidentally shoots her father in a confrontation. With President Taft coming to the area, the local sheriff leads two Native American trackers to hunt them down.</desc>
         <icon src="https://images.pluto.tv/episodes/692995c9779bf41d1d8398bc/screenshot16_9_1764333002164.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69299cd9a458a400fbe16622-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69299cd9a458a400fbe16622-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Sheryl</title>
         <desc>A portrait of the singular storyteller who's lived it all, seen it all but never told it all until now. From humble beginnings to sold out world tours Sheryl Crow's life has been extraordinary, creating a legacy that continues to inspire.</desc>
         <icon src="https://images.pluto.tv/episodes/69299cd9a458a400fbe16622/screenshot16_9_1764334810533.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6929947582c5f9296d6bb35c-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6929947582c5f9296d6bb35c-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Hunt</title>
         <desc>The International Unit and The Domestic Unit of the Korean Spy Agency are tasked with the mission of uncovering a North Korean Spy known as Donglim who is deeply embedded within their agency.</desc>
         <icon src="https://images.pluto.tv/episodes/6929947582c5f9296d6bb35c/screenshot16_9_1764332662474.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="692995cb779bf41d1d840d03-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="692995cb779bf41d1d840d03-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Crock of Gold: A Few Rounds with Shane MacGowan</title>
         <desc>A look at the life of Irish singer/songwriter and Pogues frontman Shane MacGowan.</desc>
         <icon src="https://images.pluto.tv/episodes/692995cb779bf41d1d840d03/screenshot16_9_1764333008857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69299af01a8e9be91bfaee80-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69299af01a8e9be91bfaee80-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Don't Take Me Home</title>
         <desc>The story of the Welsh international football team's rise through the FIFA World Rankings, and onto their first international tournament for 58 years.</desc>
         <icon src="https://images.pluto.tv/episodes/69299af01a8e9be91bfaee80/screenshot16_9_1764432539429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69299cd5a458a400fbe07dd1-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69299cd5a458a400fbe07dd1-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Armour of God 2: Operation Condor</title>
         <desc>Jackie is hired to help the UN find Nazi gold hidden in Sahara. He's accompanied from Spain by 2 (later 3) cute women. As there are others wanting the gold, lots of kung fu fighting and comedy follows.</desc>
         <icon src="https://images.pluto.tv/episodes/69299cd5a458a400fbe07dd1/screenshot16_9_1764334806242.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="697b2e398c4cf95f2ab7fc8e-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="697b2e398c4cf95f2ab7fc8e-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Windtalkers</title>
         <desc>True story about members of the Navajo tribe who proudly served the U.S. in WW II as code talkers by using their native language as a code to relay information to military leaders.</desc>
         <icon src="https://images.pluto.tv/episodes/697b2e398c4cf95f2ab7fc8e/screenshot16_9_1769680442344.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b190cdab0875c36c90c3644-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b190cdab0875c36c90c3644-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Dirty Work</title>
         <desc>A spiteful loser finds his true calling when he opens a highly successful business specializing in revenge.</desc>
         <icon src="https://images.pluto.tv/episodes/58f64b91a62647a25311b8bc/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="691c5319d7a76352420f9c73-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="691c5319d7a76352420f9c73-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Catfish</title>
         <desc>In 2007, Ariel and Henry sensed a story as they began to film the life of Ariel's brother, Nev. They had no idea that their project would lead to the most exhilarating months of their lives.</desc>
         <icon src="https://images.pluto.tv/episodes/691c5319d7a76352420f9c73/screenshot16_9_1763483016374.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="691c342f62d408b3b780a8e4-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="691c342f62d408b3b780a8e4-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>5 Days of War</title>
         <desc>A renegade American journalist is caught behind enemy lines during the swift but devastating 5-day war between Russia and the Georgian Republic in 2008. Inspired by true events.</desc>
         <icon src="https://images.pluto.tv/episodes/691c342f62d408b3b780a8e4/screenshot16_9_1763482004518.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6929946182c5f9296d6adc2a-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6929946182c5f9296d6adc2a-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Sympathy For The Devil</title>
         <desc>While The Rolling Stones rehearse 'Sympathy for the Devil' in the studio, Godard reflects on Society, politics and culture through five vignettes.</desc>
         <icon src="https://images.pluto.tv/episodes/6929946182c5f9296d6adc2a/screenshot16_9_1764332642673.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="696e41bbb259a78ff0248cf9-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="696e41bbb259a78ff0248cf9-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Mr Calzaghe</title>
         <desc>The life story of undefeated world boxing champion from Wales Joe Calzaghe.</desc>
         <icon src="https://images.pluto.tv/episodes/696e41bbb259a78ff0248cf9/screenshot16_9_1768833468446.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6967bab1b9f75c652f7d293b-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6967bab1b9f75c652f7d293b-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Client</title>
         <desc>The Mafia wants to keep 11-year-old Mark Sway quiet, and a federal prosecutor wants to learn exactly what he knows. So Mark finds a lawyer who's smart and tough, and she wants to help him. If he can only trust her…</desc>
         <icon src="https://images.pluto.tv/episodes/6967bab1b9f75c652f7d293b/screenshot16_9_1768405683281.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="691d81e86fe1b6a13dbbbade-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="691d81e86fe1b6a13dbbbade-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Professor and the Madman</title>
         <desc>Professor James Murray begins work compiling words for the first edition of the Oxford English Dictionary in the 19th century, and receives over 10,000 entries from a patient at Broadmoor Criminal Lunatic Asylum, Dr. William Minor.</desc>
         <icon src="https://images.pluto.tv/episodes/691d81e86fe1b6a13dbbbade/screenshot16_9_1768409078841.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69134e256e0067f40d8345b4-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69134e256e0067f40d8345b4-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Ambushed</title>
         <desc>An agent (Dolph Lundgren) faces killers and crooked cops as he tries to rescue an undercover colleague (Carly Pope) from cocaine smugglers.</desc>
         <icon src="https://images.pluto.tv/episodes/69134e256e0067f40d8345b4/screenshot16_9_1768407661757.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69134e316e0067f40d854e8e-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69134e316e0067f40d854e8e-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Across the Hall</title>
         <desc>An unbalanced Terry is aware that his beloved fiancée June is cheating him. He has followed her to the decadent Riverview Hotel, where she checked in to meet her lover in room 507. He has bought a revolver and checked himself into room 508.</desc>
         <icon src="https://images.pluto.tv/episodes/69134e316e0067f40d854e8e/screenshot16_9_1768407509598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="60892be33f06c5001a779c5d-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="60892be33f06c5001a779c5d-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Boys On The Side</title>
         <desc>After accidentally committing a crime, three women embark on a cross-country journey that helps them develop something they've never known before.</desc>
         <icon src="https://images.pluto.tv/episodes/60892be33f06c5001a779c5d/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="607fecd7918e16001a51fc87-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="607fecd7918e16001a51fc87-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Pushing Tin</title>
         <desc>Fueled by caffeine and machismo, a rivalry ensues between Nick and Russell, two intensely competitive air traffic controllers, where the winner could lose it all</desc>
         <icon src="https://images.pluto.tv/episodes/607fecd7918e16001a51fc87/screenshot16_9_1767044586460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="607fecd2918e16001a51fc2f-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="607fecd2918e16001a51fc2f-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Joy Ride</title>
         <desc>When a psychotic trucker takes offense at the pranks pulled by a couple of college students, the young kids are sucked into a whirlpool of terror.</desc>
         <icon src="https://images.pluto.tv/episodes/607fecd2918e16001a51fc2f/screenshot16_9_1767045743567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="607feca8918e16001a51f92c-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="607feca8918e16001a51f92c-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Bee Season</title>
         <desc>An eleven-year-old girl from a dysfunctional family demonstrates a remarkable, almost mystical, gift for spelling when she wins district spelling bees and qualifies for the nationals.</desc>
         <icon src="https://images.pluto.tv/episodes/607feca8918e16001a51f92c/screenshot16_9_1766807191688.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6087da956b9d17001ac39a65-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6087da956b9d17001ac39a65-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>What's Your Number?</title>
         <desc>Ally Darling embarks on a quest to find the best "ex" of her life, by any means necessary, when she reads a magazine article warning that people who have had 20 or more relationships have missed their chance at true love.</desc>
         <icon src="https://images.pluto.tv/episodes/6087da956b9d17001ac39a65/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69087796f1f80c815127a0fb-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69087796f1f80c815127a0fb-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Hatton Garden Job</title>
         <desc>A remarkable true story of the largest heist in English legal history. Four ageing East End criminals drill into a steel-and-concrete secured safety deposit vault in London’s Hatton Garden jewellery quarter. Will they commit the crime of the century?</desc>
         <icon src="https://images.pluto.tv/episodes/69087796f1f80c815127a0fb/screenshot16_9_1762162594880.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69087b67c59f905cb04234c3-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69087b67c59f905cb04234c3-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Iron Mask</title>
         <desc>Action legends Jackie Chan and Arnold Schwarzenegger team up in this high concept fantasy historical epic. Set in the 18th century, English traveller Jonathan Green travels from Russia to China encountering dragons, black magic wizardry and a dragon king!</desc>
         <icon src="https://images.pluto.tv/episodes/69087b67c59f905cb04234c3/screenshot16_9_1762182821729.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="690875a405e444b5ed15bff4-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="690875a405e444b5ed15bff4-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Trust</title>
         <desc>Jim and David begin an off-the-books investigation into a bailed heroin dealer. When they discover the dealer's underground safe, they hatch a plan to break into it for their own gains. But they realise a little too late that it is a bad idea.</desc>
         <icon src="https://images.pluto.tv/episodes/690875a405e444b5ed15bff4/screenshot16_9_1762162718756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69087b40c59f905cb03ba98c-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69087b40c59f905cb03ba98c-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Arctic</title>
         <desc>Mads Mikkelsen stars as a pilot whose plane has crashed in a remote corner of the Arctic. Stranded in the wilderness he uses his ingenuity to survive. But he is forced to make a perilous choice between the safety of his camp and a trek into the unknown.</desc>
         <icon src="https://images.pluto.tv/episodes/69087b40c59f905cb03ba98c/screenshot16_9_1762170507043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69087782f1f80c815124d3f3-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69087782f1f80c815124d3f3-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Aftermath</title>
         <desc>Inspired by astonishing true events, Aftermath tells the story of two strangers, Roman Melnyk, and an air traffic controller, whose lives become inextricably bound together after a devastating plane crash that resulted in the death of Roman’s family.</desc>
         <icon src="https://images.pluto.tv/episodes/69087782f1f80c815124d3f3/screenshot16_9_1762180075367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69087963fa0f5ccff57c3d45-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69087963fa0f5ccff57c3d45-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Jiu Jitsu</title>
         <desc>Nicolas Cage is back and this time he’s got a sword and an alien invasion knocking at his door! Humanity is on the brink of extinction as a being from another world returns to Earth to face off against the best warriors the human race has to offer.</desc>
         <icon src="https://images.pluto.tv/episodes/69087963fa0f5ccff57c3d45/screenshot16_9_1762187770471.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="695f8f99287ec44e14ef8bea-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="695f8f99287ec44e14ef8bea-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Assassin's Creed</title>
         <desc>A man discovers he is a descendant of an ancient line of Assassins.</desc>
         <icon src="https://images.pluto.tv/episodes/695f8f99287ec44e14ef8bea/screenshot16_9_1767980055007.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69086e3969032f4edf157dbf-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69086e3969032f4edf157dbf-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Hot Seat</title>
         <desc>Wallace Reed, a veteran bomb squad officer races to save Orlando an IT technician taken hostage by a faceless terrorist mastermind. Orlando must empty millions of dollars from Wall Street bank accounts or the bomb installed into his chair will detonate.</desc>
         <icon src="https://images.pluto.tv/episodes/69086e3969032f4edf157dbf/screenshot16_9_1762167613911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="607fecde918e16001a51fd17-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="607fecde918e16001a51fd17-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Street Kings</title>
         <desc>When evidence implicates a veteran LAPD cop in the execution of a fellow officer, he is forced to go up against the cop culture he's been a part of his entire career.</desc>
         <icon src="https://images.pluto.tv/episodes/607fecde918e16001a51fd17/screenshot16_9_1767049486372.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="637372a1259abd0013f2d8e9-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="637372a1259abd0013f2d8e9-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Unfinished Business</title>
         <desc>A hard-working small business owner and his two associates travel to Europe to close the most important deal of their lives. But what began as a routine business trip goes off the rails in every way imaginable, and unimaginable.</desc>
         <icon src="https://images.pluto.tv/episodes/637372a1259abd0013f2d8e9/screenshot16_9_1770663601844.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="60647d27a224c9001bb84f77-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="60647d27a224c9001bb84f77-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The King Of Comedy</title>
         <desc>A struggling comedian gambles his uncertain future on a crazy scheme to ransom his way onto television by kidnapping a popular talk show host.</desc>
         <icon src="https://images.pluto.tv/episodes/60647d27a224c9001bb84f77/screenshot16_9_1766545073088.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6087da756b9d17001ac397d6-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6087da756b9d17001ac397d6-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Brazil</title>
         <desc>In the retro-future world, a government bureaucrat tries to correct an administrative error and quickly finds himself an enemy of the state.</desc>
         <icon src="https://images.pluto.tv/episodes/6087da756b9d17001ac397d6/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6087da856b9d17001ac39929-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6087da856b9d17001ac39929-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Shutter</title>
         <desc>A newly married couple discovers disturbing, ghostly images in photographs they develop after an eerie accident in which they believe they may have hit a young girl with their car.</desc>
         <icon src="https://images.pluto.tv/episodes/6087da856b9d17001ac39929/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b190ce9b0875c36c90c3847-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b190ce9b0875c36c90c3847-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Invasion of the Body Snatchers (1978)</title>
         <desc>This dazzling remake of the 1956 spine-tingler stars Donald Sutherland, Brooke Adams, Jeff Goldblum, Leonard Nimoy and Veronica Cartwright in an eerie tale of possession by "alien pods."</desc>
         <icon src="https://images.pluto.tv/episodes/59014268a1041ca52b5ac030/screenshot16_9.png?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="686bca744f8d4a99174caadb-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="686bca744f8d4a99174caadb-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Conan the Barbarian</title>
         <desc>The tale of Conan the Cimmerian and his adventures across the continent of Hyboria on a quest to avenge the murder of his father and the slaughter of his village.</desc>
         <icon src="https://images.pluto.tv/episodes/686bca744f8d4a99174caadb/screenshot16_9_1751894646352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b190ef5b0875c36c90c702a-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b190ef5b0875c36c90c702a-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Warrior (2011)</title>
         <desc>WARRIOR tells the moving and inspirational story of the Conlon family, Brendan (Joel Edgerton), Tommy (Tom Hardy) and Paddy (Nick Nolte), who find redemption in the ring as they fight to repair themselves and their family.</desc>
         <icon src="https://images.pluto.tv/episodes/5b190ef5b0875c36c90c702a/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b190e50b0875c36c90c5e98-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b190e50b0875c36c90c5e98-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Benny &amp; Joon</title>
         <desc>Johnny Depp and Mary Stuart Masterson star in this quirky romantic Drama about two misfits who Comedye together as a result of an unusual poker game. Aidan Quinn and Julianne Moore co-star.</desc>
         <icon src="https://images.pluto.tv/episodes/58e2e7ae5ead55f9c2afe703/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b190d64b0875c36c90c45f5-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b190d64b0875c36c90c45f5-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Source Family, The (2013)</title>
         <desc>The Source Family's outlandish lifestyle made them the darlings of Hollywood; but their outsider ideals and spiritual leader, Father Yod, caused controversy with local authorities.</desc>
         <icon src="https://images.pluto.tv/assets/images/default/vod.screenshot16_9-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6969fb46f65a7c96c6b35823-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6969fb46f65a7c96c6b35823-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Sex, Fame &amp; Murder: The Luka Magnotta Story</title>
         <desc>This documentary chronicles the life and crimes of former gay porn star Luka Magnotta who was convicted of killing and dismembering a man and posting the video online.</desc>
         <icon src="https://images.pluto.tv/episodes/6969fb46f65a7c96c6b35823/screenshot16_9_1768553293187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6888a2a9cb15389834e23d4a-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6888a2a9cb15389834e23d4a-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Mushroom Murders: The Case That Gripped the World</title>
         <desc>We reveal the full story of how Erin Patterson murdered three dinner guests.</desc>
         <icon src="https://images.pluto.tv/episodes/6888a2a9cb15389834e23d4a/screenshot16_9_1753785021769.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b190c82b0875c36c90c2a94-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b190c82b0875c36c90c2a94-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>10 Most Evil Serial Killers</title>
         <desc>Explore the dark and twisted world of the Top Ten Victorian Serial Killers. From evil gangs with their hearts set on vengeance to sick and twisted doctors who used their knowledge to take numerous lives, the world of the serial killer knows no bounds.</desc>
         <icon src="https://images.pluto.tv/episodes/589a0ffa15b42992b9ec973c/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6274ce6ab55dbf001354694c-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6274ce6ab55dbf001354694c-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Gangster No 1 - The Freddie Foreman Story</title>
         <desc>In this feature documentary, Foreman reveals the untold and audacious details of the heists, double crossings, shootouts, murders and betrayals he was involved in, earning him the label of Gangster No. 1.</desc>
         <icon src="https://images.pluto.tv/episodes/6274ce6ab55dbf001354694c/screenshot16_9_1766552039299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="60be153fea5a420013680155-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="60be153fea5a420013680155-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Bodysnatchers of NYC</title>
         <desc>A former surgeon stands accused of masterminding the crime of more than 1,000 corpses being stolen, and the body parts sold for millions.</desc>
         <icon src="https://images.pluto.tv/episodes/60be153fea5a420013680155/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6274ce8bb55dbf0013546cf4-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6274ce8bb55dbf0013546cf4-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Krays - Myth Behind The Legend</title>
         <desc>Ronnie and Reggie Kray remain two of the most infamous criminals in British history. Legends to many, their fame was built on a fearsome reputation and almost mythical celebrity-like status, but who were the real Kray twins?</desc>
         <icon src="https://images.pluto.tv/episodes/6274ce8bb55dbf0013546cf4/screenshot16_9_1766535129433.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6274ce85b55dbf0013546ca6-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6274ce85b55dbf0013546ca6-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Feared: Irish Gangsters</title>
         <desc>Best-selling author Bernard O Mahoney returns to his home country to shine a light on the Irish underworld. He travels around Ireland to examine the workings of criminals, telling stories of violence and the devastating consequences it all brings.</desc>
         <icon src="https://images.pluto.tv/episodes/6274ce85b55dbf0013546ca6/screenshot16_9_1766541161809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6274ce91b55dbf0013546dc2-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6274ce91b55dbf0013546dc2-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Krays: Kill Order</title>
         <desc>This is the inside story of the Krays, told by those who stood with them and those who stood against them.</desc>
         <icon src="https://images.pluto.tv/episodes/6274ce91b55dbf0013546dc2/screenshot16_9_1766542297916.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6929a27182bb361505f3f6ba-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6929a27182bb361505f3f6ba-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Annie Hall</title>
         <desc>Woody Allen is in prime form in this celebrated comedy and 1977 Best Picture Oscar®-winner in which he portrays a highly neurotic comedy writer who falls head-over-heels in love with a naive small-town girl (Diane Keaton) who aspires to be a singer.</desc>
         <icon src="https://images.pluto.tv/episodes/6929a27182bb361505f3f6ba/screenshot16_9_1764389315603.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b190e5db0875c36c90c5f04-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b190e5db0875c36c90c5f04-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Yentl</title>
         <desc>Barbra Streisand stars in this beautifully portrayed story of a young independent woman who is forced to masquerade as a boy in order to pursue her love of knowledge.</desc>
         <icon src="https://images.pluto.tv/episodes/5901422ba1041ca52b5ab8b6/screenshot16_9.png?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="691eec41779bf41d1d8904ba-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="691eec41779bf41d1d8904ba-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Fargo</title>
         <desc>Things go awry when car salesman Jerry Lundegaard (William H. Macy) hires two thugs to kidnap his wife. Soon, the very pregnant and chipper Police Chief Marge Gunderson (Frances McDormand) takes the case. Is she up for the challenge? You betcha.</desc>
         <icon src="https://images.pluto.tv/episodes/691eec41779bf41d1d8904ba/screenshot16_9_1763634242512.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b190ef5b0875c36c90c7026-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b190ef5b0875c36c90c7026-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Thelma and Louise</title>
         <desc>In one of the greatest road movies of all time, Geena Davis and Susan Sarandon ride to everlasting fame as two women who embark on a crime spree across the American southwest.</desc>
         <icon src="https://images.pluto.tv/episodes/59014205a1041ca52b5ab469/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b191317b0875c36c90ccbc5-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b191317b0875c36c90ccbc5-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Winter's Bone</title>
         <desc>An unflinching Ozark Mountain girl hacks through dangerous social terrain as she hunts down her drug-dealing father while trying to keep her family intact.</desc>
         <icon src="https://images.pluto.tv/episodes/5b191317b0875c36c90ccbc5/screenshot16_9_1760713782245.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="607fecec918e16001a51fe27-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="607fecec918e16001a51fe27-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>This Boy's Life</title>
         <desc>A heart breaking coming-of-age story about a boy's abusive relationship with his new stepfather, and his emotionally scarred mother.</desc>
         <icon src="https://images.pluto.tv/episodes/607fecec918e16001a51fe27/screenshot16_9_1767045601579.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="692d9f718e21e6575a86851f-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="692d9f718e21e6575a86851f-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Thomas Crown Affair (1968)</title>
         <desc>Steve McQueen stars as a sophisticated but bored tycoon who pulls off a bank heist so stunning that even Boston's finest are baffled. Faye Dunaway is the sleek insurance investigator out to bring him in but who, ultimately, falls in love with him.</desc>
         <icon src="https://images.pluto.tv/episodes/692d9f718e21e6575a86851f/screenshot16_9_1764597618940.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5db8ca05d196e7b083774fa0-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5db8ca05d196e7b083774fa0-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Over the Top</title>
         <desc>A Championship title, a huge cash award, and his son's love -- the greatest prize of all -- are at stake when Hawk battles his strongest enemy for everything he has ever wanted.</desc>
         <icon src="https://images.pluto.tv/episodes/5db8ca05d196e7b083774fa0/screenshot16_9_1769072729605.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b3b062b0ae07befc8177dfa-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b3b062b0ae07befc8177dfa-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Six Degrees of Separation (1993)</title>
         <desc>When compassionate Manhattan art dealers Stockard Channing and Donald Sutherland take in a young man (Will Smith) who has been stabbed in Central Park, their world turns amusingly upside down.</desc>
         <icon src="https://images.pluto.tv/episodes/5b3b062b0ae07befc8177dfa/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="69427819fcbc144bb6b57d47-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="69427819fcbc144bb6b57d47-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Crash</title>
         <desc>Winner of 3 Academy Awards including BEST PICTURE. A car accident brings together a group of strangers in Los Angeles.</desc>
         <icon src="https://images.pluto.tv/episodes/69427819fcbc144bb6b57d47/screenshot16_9_1765963807955.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b190f2fb0875c36c90c758e-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b190f2fb0875c36c90c758e-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Rain Man</title>
         <desc>Tom Cruise stars as an idealistic young wheeler-dealer whose life is changed forever when he discovers he has an autistic savant older brother (Dustin Hoffman, in a Best Actor Oscar-winning performance).</desc>
         <icon src="https://images.pluto.tv/episodes/5ad7c212cffe4415c0b522c8/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b190d63b0875c36c90c45c2-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b190d63b0875c36c90c45c2-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Moonstruck</title>
         <desc>In her Academy Award winning role, Cher, while waiting for her timid fiance to decide between her and his mother, falls in love with her fiance's estranged brother, a bakery worker with a love of opera and life.</desc>
         <icon src="https://images.pluto.tv/episodes/5966921e70e766a31078cec2/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="65a9862fb8685b0013ace5d4-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="65a9862fb8685b0013ace5d4-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>La Dolce Vita</title>
         <desc>A series of stories following a week in the life of a philandering tabloid journalist living in Rome.</desc>
         <icon src="https://images.pluto.tv/episodes/65a9862fb8685b0013ace5d4/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5fc8ab8399839e0013e0e4e9-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5fc8ab8399839e0013e0e4e9-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Long Walk Home</title>
         <desc>One black and one white woman in 1955 Montgomery, Alabama must decide what they are going to do in response to the famous bus boycott led by Martin Luther King. With Whoopi Goldberg and Sissy Spacek.</desc>
         <icon src="https://images.pluto.tv/episodes/5fc8ab8399839e0013e0e4e9/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6964b811262748e8585339b5-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="6964b811262748e8585339b5-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Charisma</title>
         <desc>A burned-out negotiator botches a tense negotiation, resulting in the deaths of the kidnapper and the businessman hostage.</desc>
         <icon src="https://images.pluto.tv/episodes/6964b811262748e8585339b5/screenshot16_9_1768208404260.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="692d9c9782c5f9296d86236d-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="692d9c9782c5f9296d86236d-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Paths Of Glory</title>
         <desc>This powerful, fact-based absurdity-of-war film stars Kirk Douglas as a commanding officer who defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.</desc>
         <icon src="https://images.pluto.tv/episodes/692d9c9782c5f9296d86236d/screenshot16_9_1764596898319.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5e743a98637ed5001a79dbe1-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5e743a98637ed5001a79dbe1-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>The Quiet Man</title>
         <desc>An American ex-boxer returns to Ireland to win the hand of a spirited young woman. He is confronted by local customs and the woman's belligerent brother. Set in the verdant Irish countryside, this film has beautiful scenery and local charm.</desc>
         <icon src="https://images.pluto.tv/episodes/5e743a98637ed5001a79dbe1/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5b3ae9715b5414e97da83aaa-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="5b3ae9715b5414e97da83aaa-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Buffalo '66 (1998)</title>
         <desc>Billy Brown just got out of jail. Now he's going to serve some real time. He's going home.</desc>
         <icon src="https://images.pluto.tv/episodes/5b3ae9715b5414e97da83aaa/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="698ddfb404efdcbbe4fcd1be-uk" start="20260309063539 +0000" stop="20260311063539 +0000">
+    <programme channel="698ddfb404efdcbbe4fcd1be-uk" start="20260309093340 +0000" stop="20260311093340 +0000">
         <title>Buena Vista Social Club</title>
         <desc>Aging Cuban musicians whose talents had been virtually forgotten following Castro's takeover of Cuba, are brought out of retirement by Ry Cooder, who travelled to Havana in order to bring the musicians together, resulting in triumphant performances of extraordinary music, and resurrecting the musicians' careers.</desc>
         <icon src="https://images.pluto.tv/episodes/698ddfb404efdcbbe4fcd1be/screenshot16_9_1770905525207.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
